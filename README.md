@@ -316,7 +316,7 @@ You may customize the license according to your requirements.
 
 **Sibghatullah Laghari**
 
-Java Backend Engineer | Spring Boot Developer
+Java Backend Engineer | Spring Boot Developer.
 
 Focused on building secure, scalable, and maintainable backend applications using Java, Spring Boot, REST APIs, Spring Security, JWT Authentication, and relational databases.
 
