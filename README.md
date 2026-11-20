@@ -2,7 +2,7 @@
 
 A comprehensive collection of Spring Boot backend development concepts, projects, and best practices designed to help developers build production-ready REST APIs and backend applications using Java and Spring Boot.
 
-This repository serves as a learning resource, practice workspace, and reference guide for mastering modern backend development with the Spring ecosystem.
+This repository serves as a learning resource, practice workspace, and reference guide for mastering modern backend development with the Spring ecosystem..
 
 ---
 
