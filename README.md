@@ -41,7 +41,7 @@ By working through this repository, you will learn how to:
 - Validate incoming requests
 - Secure APIs using JWT
 - Write clean and maintainable code
-- Document APIs professionally
+- Document APIs professionally.
 - Deploy backend applications
 
 ---
